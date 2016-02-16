@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ethicanaturaliss00weig_0186.png"; bbox 0 0 2540 3272; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 435 955 519 1281">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 435 955 519 1281">
+     <span class='ocr_line' id='line_1_1' title="bbox 435 955 446 964; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 435 955 446 964; x_wconf 81' lang='grc' dir='ltr'>ν</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 487 971 519 1281; textangle 180"><span class='ocrx_word' id='word_1_2' title='bbox 488 1168 512 1281; x_wconf 55' lang='lat' dir='ltr'><em>‚Ac-„nn</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 487 1001 519 1158; x_wconf 45' lang='lat' dir='ltr'><em>[An-..dmi</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 490 971 516 977; x_wconf 88' lang='lat'><em>..</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2335 932 2390 1434">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2335 932 2390 1434">
+     <span class='ocr_line' id='line_1_3' title="bbox 2335 932 2390 1434; textangle 180"><span class='ocrx_word' id='word_1_5' title='bbox 2335 1053 2390 1434; x_wconf 45' lang='grc' dir='ltr'><em>ψῖἑῡὲἆῖωτηὲἰεῖτζ.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2357 1023 2377 1046; x_wconf 67' lang='grc'><em>3</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 2358 932 2379 1009; x_wconf 51' lang='grc' dir='ltr'><em>,ιζὲ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2382 1012 2394 1172">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2382 1012 2394 1172">
+     <span class='ocr_line' id='line_1_4' title="bbox 2382 1012 2394 1172; textangle 180"><span class='ocrx_word' id='word_1_8' title='bbox 2382 1069 2394 1172; x_wconf 46' lang='lat' dir='ltr'><em>..xj-Dans&lt;</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 2384 1012 2391 1047; x_wconf 65' lang='grc' dir='ltr'><em>(ὖ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 428 0 2540 3272">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 428 0 2540 3272">
+     <span class='ocr_line' id='line_1_5' title="bbox 428 0 2540 3272; textangle 180"><span class='ocrx_word' id='word_1_10' title='bbox 428 0 2540 3272; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

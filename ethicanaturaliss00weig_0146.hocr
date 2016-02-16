@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ethicanaturaliss00weig_0146.png"; bbox 0 0 2540 3272; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2480 496 2525 811">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2480 496 2525 811">
+     <span class='ocr_line' id='line_1_1' title="bbox 2480 593 2525 811; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 2506 796 2519 811; x_wconf 65' lang='lat' dir='ltr'><em>a</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 2503 696 2525 786; x_wconf 44' lang='lat' dir='ltr'><strong>:fif-„v</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2480 593 2519 686; x_wconf 14' lang='lat' dir='ltr'><strong>&lt;tw-›¹³⁸9—</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 2487 496 2525 685; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 2522 663 2525 685; x_wconf 62' lang='lat'><strong>‚„</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2511 618 2520 630; x_wconf 57' lang='grc'><strong>-.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2504 562 2514 586; x_wconf 33' lang='lat'><strong>⁴»</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2487 496 2489 498; x_wconf 23' lang='grc' dir='ltr'>ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2505 813 2521 827">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2505 813 2521 827">
+     <span class='ocr_line' id='line_1_3' title="bbox 2505 813 2521 827; baseline -0.125 0"><span class='ocrx_word' id='word_1_8' title='bbox 2505 813 2521 827; x_wconf 74' lang='grc' dir='ltr'>Η</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 465 0 2540 3272">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 465 0 2540 3272">
+     <span class='ocr_line' id='line_1_4' title="bbox 465 0 2540 3272; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 465 0 2540 3272; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
